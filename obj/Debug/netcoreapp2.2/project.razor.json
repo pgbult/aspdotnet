@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/p.g.bult/Documents/Werk/Jelastic/GitRepository/aspdotnet2/myWebApp.csproj",
+  "FilePath": "/Users/p.g.bult/Documents/Werk/Jelastic/GitRepository/aspdotnet/myWebApp.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2961,42 +2961,42 @@
   "RootNamespace": "myWebApp",
   "Documents": [
     {
-      "FilePath": "/Users/p.g.bult/Documents/Werk/Jelastic/GitRepository/aspdotnet2/Pages/Shared/_CookieConsentPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_CookieConsentPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/p.g.bult/Documents/Werk/Jelastic/GitRepository/aspdotnet2/Pages/Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/p.g.bult/Documents/Werk/Jelastic/GitRepository/aspdotnet2/Pages/Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/p.g.bult/Documents/Werk/Jelastic/GitRepository/aspdotnet2/Pages/_ViewImports.cshtml",
+      "FilePath": "/Users/p.g.bult/Documents/Werk/Jelastic/GitRepository/aspdotnet/Pages/_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/p.g.bult/Documents/Werk/Jelastic/GitRepository/aspdotnet2/Pages/Error.cshtml",
+      "FilePath": "/Users/p.g.bult/Documents/Werk/Jelastic/GitRepository/aspdotnet/Pages/Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/p.g.bult/Documents/Werk/Jelastic/GitRepository/aspdotnet2/Pages/_ViewStart.cshtml",
+      "FilePath": "/Users/p.g.bult/Documents/Werk/Jelastic/GitRepository/aspdotnet/Pages/_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/p.g.bult/Documents/Werk/Jelastic/GitRepository/aspdotnet2/Pages/Shared/_Layout.cshtml",
+      "FilePath": "/Users/p.g.bult/Documents/Werk/Jelastic/GitRepository/aspdotnet/Pages/Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/p.g.bult/Documents/Werk/Jelastic/GitRepository/aspdotnet/Pages/Shared/_CookieConsentPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_CookieConsentPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/p.g.bult/Documents/Werk/Jelastic/GitRepository/aspdotnet/Pages/Shared/_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/p.g.bult/Documents/Werk/Jelastic/GitRepository/aspdotnet2/Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "FilePath": "/Users/p.g.bult/Documents/Werk/Jelastic/GitRepository/aspdotnet/Pages/Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/p.g.bult/Documents/Werk/Jelastic/GitRepository/aspdotnet/Pages/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }
